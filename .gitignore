@@ -1,0 +1,37 @@
+# GitHub Profile Repository .gitignore
+# Only README.md should be tracked in this repository
+
+# Ignore everything by default
+*
+
+# But allow README.md
+!README.md
+
+# Allow .gitignore itself
+!.gitignore
+
+# macOS specific files (always ignore)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE and editor files (always ignore)
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files (always ignore)
+*.backup
+*.bak
+*.orig
+
+# Log files (always ignore)
+*.log
+
+# Temporary files (always ignore)
+tmp/
+temp/
+.tmp/
+*.tmp
