@@ -58,3 +58,11 @@ Enterprise Terraform • Multi-environment AWS deployments • OIDC CI/CD • Cl
 > "Building high-performing systems, teams, and cloud solutions"
 
 ⭐️ [github.com/jxman](https://github.com/jxman) • 🌐 [synepho.com](https://synepho.com)
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=jxman&color=0e75b6&style=flat-square&label=Profile+Views)
+
+</div>
