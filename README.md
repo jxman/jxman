@@ -26,11 +26,17 @@ Leading Cloud strategy at Fortune 500 • Managing $400M+ platforms • 60% cost
 
 ## 📝 Latest Articles
 
+- 🆕 [Beyond the Outage Notification: Building Cloud Status Hub with AI Insight](https://synepho.com/blog/cloud-status-hub-ai-insight/) - Oct 7, 2026
+- [Learning to See Like a Designer: A Cloud Architect's Redesign of Lawn.Smart](https://synepho.com/blog/lawn-smart-redesign-claude-design/) - Apr 28, 2026
 - [Building AWS Services Dashboard: A Modular Architecture Journey with AI-Assisted Development](https://synepho.com/blog/aws-services-dashboard-release/) - Oct 23, 2025
-- [From Weekend Lawn Care to Zone-Intelligent App: Releasing Lawn.Smart](https://synepho.com/blog/lawnsmartapp-release/) - Jun 6, 2025
-- [From Coding Challenges to Real-World Solutions: My Journey with AI Pair Programming](https://synepho.com/blog/ai-pair-programming-journey/) - Dec 15, 2024
+
+[More articles →](https://synepho.com/blog)
 
 ## 🌟 Featured Projects
+
+### [Cloud Status Hub](https://cloudstatus.synepho.com)
+
+Real-time status for AWS, Azure, GCP & OCI • AI incident briefs with Claude on Amazon Bedrock • [Source](https://github.com/jxman/csp-status-hub)
 
 ### [AWS Services Dashboard](https://github.com/jxman/aws-services-dashboard)
 
