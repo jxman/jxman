@@ -4,7 +4,7 @@
 
 Leading Cloud strategy at Fortune 500 • Managing $400M+ platforms • 60% cost reduction through innovation • 20+ years in tech leadership
 
-🌐 [synepho.com](https://synepho.com) • 💼 [LinkedIn](https://www.linkedin.com/in/johnx/) • 📝 [Blog](https://synepho.com/blog)
+🌐 [synepho.com](https://synepho.com) • 📝 [Blog](https://synepho.com/blog) • 🧩 [Apps](https://synepho.com/apps/) • 💼 [LinkedIn](https://www.linkedin.com/in/johnx/)
 
 ## 🛠️ Tech Stack
 
@@ -20,13 +20,15 @@ Leading Cloud strategy at Fortune 500 • Managing $400M+ platforms • 60% cost
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## 📝 Latest Articles
 
-- 🆕 [Beyond the Outage Notification: Building Cloud Status Hub with AI Insight](https://synepho.com/blog/cloud-status-hub-ai-insight/) - Oct 7, 2026
+- 🆕 [Using AI to Defend Against AI Threats: Building Brew Updates](https://synepho.com/blog/brew-updates-release/) - Nov 2026
+- [Beyond the Outage Notification: Building Cloud Status Hub with AI Insight](https://synepho.com/blog/cloud-status-hub-ai-insight/) - Oct 6, 2026
 - [Learning to See Like a Designer: A Cloud Architect's Redesign of Lawn.Smart](https://synepho.com/blog/lawn-smart-redesign-claude-design/) - Apr 28, 2026
 - [Building AWS Services Dashboard: A Modular Architecture Journey with AI-Assisted Development](https://synepho.com/blog/aws-services-dashboard-release/) - Oct 23, 2025
 
@@ -34,13 +36,17 @@ Leading Cloud strategy at Fortune 500 • Managing $400M+ platforms • 60% cost
 
 ## 🌟 Featured Projects
 
+### [Brew Updates](https://www.synepho.com/apps/brew-updates/) 🆕
+
+Native Mac app that keeps Homebrew current on a schedule • Brewfile backups • security scans & health checks • `brew install --cask jxman/tap/brew-updates` • [Source](https://github.com/jxman/brew-updates)
+
 ### [Cloud Status Hub](https://cloudstatus.synepho.com)
 
 Real-time status for AWS, Azure, GCP & OCI • AI incident briefs with Claude on Amazon Bedrock • [Source](https://github.com/jxman/csp-status-hub)
 
-### [AWS Services Dashboard](https://github.com/jxman/aws-services-dashboard)
+### [AWS Services Dashboard](https://aws-services.synepho.com)
 
-Modular serverless monitoring platform • React + AWS Lambda • Real-time visualization
+Global region & service availability across AWS • React + AWS Lambda • Daily updates from SSM Parameter Store • [Source](https://github.com/jxman/aws-services-site)
 
 ### [Lawn.Smart](https://lawnsmartapp.com)
 
