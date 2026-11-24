@@ -27,10 +27,10 @@ Leading Cloud strategy at Fortune 500 • Managing $400M+ platforms • 60% cost
 
 ## 📝 Latest Articles
 
-- 🆕 [Using AI to Defend Against AI Threats: Building Brew Updates](https://synepho.com/blog/brew-updates-release/) - Nov 2026
-- [Beyond the Outage Notification: Building Cloud Status Hub with AI Insight](https://synepho.com/blog/cloud-status-hub-ai-insight/) - Oct 6, 2026
-- [Learning to See Like a Designer: A Cloud Architect's Redesign of Lawn.Smart](https://synepho.com/blog/lawn-smart-redesign-claude-design/) - Apr 28, 2026
-- [Building AWS Services Dashboard: A Modular Architecture Journey with AI-Assisted Development](https://synepho.com/blog/aws-services-dashboard-release/) - Oct 23, 2025
+- 🆕 [Using AI to Defend Against AI Threats: Building Brew Updates](https://synepho.com/blog/brew-updates-release/) - Nov 23, 2026
+- [Beyond the Outage Notification: Building Cloud Status Hub with AI Insight](https://synepho.com/blog/cloud-status-hub-ai-insight/) - Oct 7, 2026
+- [Learning to See Like a Designer: A Cloud Architect's Redesign of Lawn.Smart](https://synepho.com/blog/lawn-smart-redesign-claude-design/) - Apr 29, 2026
+- [Building AWS Services Dashboard: A Modular Architecture Journey with AI-Assisted Development](https://synepho.com/blog/aws-services-dashboard-release/) - Oct 24, 2025
 
 [More articles →](https://synepho.com/blog)
 
