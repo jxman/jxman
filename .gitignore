@@ -10,6 +10,14 @@
 # Allow .gitignore itself
 !.gitignore
 
+# Allow CI config (feed-driven Latest Articles workflow + Dependabot)
+!.github/
+!.github/dependabot.yml
+!.github/workflows/
+!.github/workflows/*.yml
+!.github/scripts/
+!.github/scripts/*.py
+
 # macOS specific files (always ignore)
 .DS_Store
 .AppleDouble
